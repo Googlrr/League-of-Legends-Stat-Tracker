@@ -1,0 +1,36 @@
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\Newtonsoft.Json.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\Newtonsoft.Json.xml
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\League of Legends Stat Tracker.csproj.GenerateResource.Cache
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LoLStatTracker.exe.config
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LoLStatTracker.exe
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LoLStatTracker.pdb
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.AboutBox1.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.Form1.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.Form2.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.gameExplorer.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.Properties.Resources.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.exe
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.pdb
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LoLStatTracker.exe.manifest
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LoLStatTracker.application
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.exe.manifest
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.application
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\League of Legends Stat Tracker.csprojResolveAssemblyReference.cache
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\x64\SQLite.Interop.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\x86\SQLite.Interop.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\EntityFramework.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\EntityFramework.SqlServer.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\System.Data.SQLite.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\System.Data.SQLite.Linq.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\System.Data.SqlServerCe.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\System.Web.Providers.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\EntityFramework.xml
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\EntityFramework.SqlServer.xml
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\System.Data.SQLite.xml
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\System.Web.Providers.xml
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\appSettings.config
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\AdvancedStats.baml
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\AdvancedStats.g.cs
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker_Content.g.cs
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker_MarkupCompile.cache
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LoLStatTracker.g.resources

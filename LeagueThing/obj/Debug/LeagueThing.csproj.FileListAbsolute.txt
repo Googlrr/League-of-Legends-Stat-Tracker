@@ -1,0 +1,29 @@
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Debug\LeagueThing.exe.config
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Debug\LeagueOfLegends.mdf
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Debug\LeagueOfLegends_log.ldf
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Debug\LeagueThing.exe
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Debug\LeagueThing.pdb
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Debug\LeagueThing.csprojResolveAssemblyReference.cache
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Debug\LeagueThing.Form1.resources
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Debug\LeagueThing.Properties.Resources.resources
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Debug\LeagueThing.csproj.GenerateResource.Cache
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Debug\LeagueThing.exe
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Debug\LeagueThing.pdb
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\LeagueThing\LeagueThing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\LeagueThing\LeagueThing\bin\Debug\Newtonsoft.Json.xml
+F:\_GIT\LeagueProject\LeagueThing\bin\Debug\LeagueThing.exe.config
+F:\_GIT\LeagueProject\LeagueThing\obj\Debug\LeagueThing.exe
+F:\_GIT\LeagueProject\LeagueThing\obj\Debug\LeagueThing.pdb
+F:\_GIT\LeagueProject\LeagueThing\obj\Debug\LeagueThing.csprojResolveAssemblyReference.cache
+F:\_GIT\LeagueProject\LeagueThing\obj\Debug\LeagueThing.Form1.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Debug\LeagueThing.Properties.Resources.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Debug\LeagueThing.csproj.GenerateResource.Cache
+F:\_GIT\LeagueProject\LeagueThing\bin\Debug\LeagueOfLegends.mdf
+F:\_GIT\LeagueProject\LeagueThing\bin\Debug\LeagueOfLegends_log.ldf
+F:\_GIT\LeagueProject\LeagueThing\bin\Debug\LeagueThing.XML
+F:\_GIT\LeagueProject\LeagueThing\bin\Debug\LeagueThing.exe
+F:\_GIT\LeagueProject\LeagueThing\bin\Debug\LeagueThing.pdb
+F:\_GIT\LeagueProject\LeagueThing\bin\Debug\Newtonsoft.Json.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Debug\Newtonsoft.Json.xml
+F:\_GIT\LeagueProject\LeagueThing\obj\Debug\LeagueThing.Form2.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Debug\LeagueThing.gameExplorer.resources

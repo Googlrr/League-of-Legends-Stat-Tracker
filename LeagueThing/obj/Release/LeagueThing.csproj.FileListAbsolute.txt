@@ -1,0 +1,25 @@
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Release\LeagueThing.exe.config
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Release\LeagueOfLegends.mdf
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Release\LeagueOfLegends_log.ldf
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Release\LeagueThing.exe
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\bin\Release\LeagueThing.pdb
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Release\LeagueThing.Form1.resources
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Release\LeagueThing.Properties.Resources.resources
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Release\LeagueThing.csproj.GenerateResource.Cache
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Release\LeagueThing.exe
+c:\users\trevor\documents\visual studio 2013\Projects\LeagueThing\LeagueThing\obj\Release\LeagueThing.pdb
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LeagueThing.exe.config
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LeagueThing.exe
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LeagueThing.pdb
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LeagueOfLegends.mdf
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LeagueOfLegends_log.ldf
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LeagueThing.exe
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\LeagueThing.pdb
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\Newtonsoft.Json.dll
+F:\_GIT\LeagueProject\LeagueThing\bin\Release\Newtonsoft.Json.xml
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LeagueThing.Form1.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LeagueThing.Properties.Resources.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LeagueThing.csproj.GenerateResource.Cache
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LeagueThing.csprojResolveAssemblyReference.cache
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LeagueThing.Form2.resources
+F:\_GIT\LeagueProject\LeagueThing\obj\Release\LeagueThing.gameExplorer.resources
